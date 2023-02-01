@@ -1,0 +1,11 @@
+/*
+Se definen las propiedades de estilos.
+Prioridad 3: Los estilos definidos en un archivo
+aplican despues que los estilos definidos en el documento HTML
+y tambien despues de los elementos definidos en un elemento HTML
+*/
+body {
+	background:#0080ff;
+	color:#00ff00;
+	font-family:"Century Gothic";
+}
